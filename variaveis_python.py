@@ -1,4 +1,4 @@
 nome_completo = "italo araujo"
-print(nome_completo)
-
-outra_variavel = "olá"
+idade = 27
+print('Meu nome é', nome_completo)
+print(f'olá {nome_completo}')
